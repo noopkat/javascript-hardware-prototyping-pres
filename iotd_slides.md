@@ -334,11 +334,20 @@ board.on("ready", function() {
 
 # ...
 
-# Building hardware
+# Don't let hardware scare you
+
+![](https://farm1.staticflickr.com/3/5164271_2f583028d6_o.jpg)
+
+#### photo credit: jmorgan via Flickr
+---
+
+# ...
+
+# Build things for the fun of it
 
 ---
+
 # ...
 
 # (Thank you)
 
----
