@@ -19,6 +19,9 @@ npm install
 node test.js
 ```
 
+### edit test.js for fun!
+### NodeJS/npm assumed to be installed already
+
 ---
 
 # ...
@@ -38,9 +41,14 @@ node test.js
 
 ---
 
+![](https://camo.githubusercontent.com/a92f5042d9345acfd2f2c216085142c3061d45f7/687474703a2f2f662e636c2e6c792f6974656d732f3170334f3067336c30323157314b3431304832792f736f6c64657265642d6d61696c626f782d6465766963652e6a7067)
+
+--- 
+
 ![](https://raw.githubusercontent.com/noopkat/nerd-docs/master/img/meowbox.jpg)
 
 ---
+
 
 
 # IoT
@@ -146,16 +154,17 @@ node test.js
 
 # NodeJS
 
-- JavaScript runtime
-- both in and out of browser
-- small module mentality
+- platform built on Chrome's JavaScript runtime (V8)
+- build services with JavaScript 
+- event driven, ideal for handling external events, such as those from devices
+- small module mentality (over 100k packages available for d/l)
 
 ---
 
 # Johnny-Five
 
-- Robotics and other hardware in NodeJS
-- Easy to use API
+- Library for interacting with hardware in NodeJS
+- Rich, easy to use API 
 - Fast to get up and running with Arduino
 
 ---
@@ -293,6 +302,7 @@ credit: analog.com
 ![inline fill](http://www.analog.com/library/analogdialogue/archives/44-06/AD44_06_FIG_02.jpg)
 
 credit: analog.com
+check out: http://www.analog.com/library/analogdialogue/archives/44-06/pedometer.html
 
 ---
 
