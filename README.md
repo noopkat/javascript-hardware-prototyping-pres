@@ -1,6 +1,6 @@
 # your own javascript army (prototyping devices doesn't have to suck)
 
-Slides for a talk given at Internet of Things Day - Oslo, November 2014
+Slides for a talk given at NDC Internet of Things Day - Oslo, November 2014
 
 Code Libraries covered in the talk:
 
