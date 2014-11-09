@@ -1,8 +1,10 @@
-footer: @noopkat, 2014
+footer: @noopkat | meow.noopkat.com/iotd-2014
 slidenumbers: true
 
-# Your Own JavaScript Army
-## (prototyping devices doesn't have to suck)
+# your own JavaScript army
+## OR: prototyping devices doesn't have to suck
+
+![](https://raw.githubusercontent.com/noopkat/nerd-docs/master/img/meowbox.jpg)
 
 ---
 
@@ -323,10 +325,10 @@ board.on("ready", function() {
 # Bluetooth Low Energy
 
 ```javascript
-var BLEFirmata = require("./");
+var blendMicroIO = require('./');
 
 var board = new five.Board({
-  io: new BLEFirmata({"name": "BlendMicro"})
+  io: new blendMicroIO({"name": "BlendMicro"})
 });
 
 board.on("ready", function() {
