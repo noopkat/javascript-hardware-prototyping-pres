@@ -2,6 +2,8 @@
 
 Slides for a talk given at NDC Internet of Things Day - Oslo, November 2014
 
+[My talk is published on Vimeo here](https://vimeo.com/111229053).
+
 Code Libraries covered in the talk:
 
 + [Johnny-Five](https://github.com/rwaldron/johnny-five)
